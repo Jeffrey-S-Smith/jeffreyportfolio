@@ -2,12 +2,14 @@ import React from 'react';
 import '../css/Header.css';
 
 
-class Header extends React.Component {
-  render() {
+
+function Header() {
     return(
-      <header/>
+      <header className='header-img' >
+       <h1>Hello</h1>
+      </header>
     );
-  }
+ 
 }
 
 export default Header;

@@ -12,10 +12,10 @@ import {
 const Footer = () => {
   return (
     <Box>
-      <h1 style={{ color: "purple", 
+      <h1 style={{ color: "black", 
                    textAlign: "center", 
                    marginTop: "-50px" }}>
-        Purple Car Dealer: A Car site for Car Lovers
+        
       </h1>
       <Container>
         <Row>
